@@ -1,0 +1,3 @@
+[submodule "smurfs"]
+	path = smurfs
+	url = https://github.com/muma7490/smurfs
